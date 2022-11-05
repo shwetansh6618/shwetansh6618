@@ -1,4 +1,4 @@
 - 👋 Hi, I’m shwetansh Kumar
-- 👀 I’m interested in Python,Artificial Intelligence and Video Games.
-- 🌱 I’m currently learning Python,Html and CSS.
+- 👀 I’m interested in Python, Artificial Intelligence and Video Games.
+- 🌱 I’m currently learning Python, Html and CSS.
 - 📫 How to reach me Email: shwetansh2pathankot@gmail.com
